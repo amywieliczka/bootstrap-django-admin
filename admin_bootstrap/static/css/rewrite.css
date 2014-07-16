@@ -102,3 +102,8 @@ select{
 .selector .selector-available h2,.selector-available h2, .selector-chosen h2{
     margin:0;
 }
+/* for active filters in admin */
+ul.nav.nav-list li.active a{
+    color:#555555;
+    background-color:#e5e5e5;
+}
